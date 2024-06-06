@@ -71,3 +71,8 @@ c_i = \left( \frac{x_0 + x_1 + x_2 + ...}{\text{count}(class\ i)}, \frac{y_0 + y
 
 This iterative update process continues until the centroids stabilize or a predetermined number of iterations is reached. It ensures that the centroids accurately represent the centers of the clusters and that data points are correctly assigned to their respective clusters based on proximity.
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="Demo">
+</p>
