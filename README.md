@@ -54,7 +54,6 @@ where:
 - \( c \) is the current centroid to which \( x \)'s distance is being computed,
 - \( m \) is the feature vector length.
 
-### Update of Centroids:
 
 ### Update of Centroids:
 
